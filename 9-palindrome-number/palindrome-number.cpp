@@ -15,7 +15,5 @@ public:
         if(s==v)
         return 1;
         return 0;
-
-        
     }
 };
